@@ -16,4 +16,11 @@ This application is designed to monitor drivers' attention during driving by ach
 
 The primary purpose of this application is to enhance road safety by detecting and alerting drivers when their attention wavers from the road. It offers a real-time solution for monitoring driver behavior, helping to reduce the risk of accidents.
 
+## Real-Time Eye Tracking for Driver Attention Monitoring
+
+This application is designed to monitor drivers' attention during driving by achieving real-time eye tracking via a webcam feed. It uses computer vision techniques and OpenCV to precisely detect and continuously track eye movements and positions within live video streams.
+
+![Working Model 1](sample_Image/Sample1.png)
+![Working Model 2](sample_Image/Sample2.png)
+
 Feel free to contribute, report issues, or provide feedback to improve this project.
