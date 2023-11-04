@@ -1,6 +1,13 @@
 # Imobilothon-3.0_Round-2
-This is our solution folder containg PPT, Videos and Codes for the Imobilothon 3.0 Round 2 
+This is our solution repository containg PPT, Videos and Codes for the Imobilothon 3.0 Round 2
 
+### Team Details
+Team Name - ankitchowdhury7777
+
+Team Members:
+- [Ankit Chowdhury](https://github.com/DBxANDREWS)
+- [Amardeep](https://github.com/Amardeep23)
+- [Aryan Rane](https://github.com/aryanrane)
 
 ## Important Note
 
